@@ -1,1 +1,1 @@
-Scripts related to Google Sheets
+# Google Apps Scripts related to Google Sheets
