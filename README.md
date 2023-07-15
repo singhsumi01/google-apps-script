@@ -1,1 +1,1 @@
-# google-apps-script-projects
+# google-apps-script
