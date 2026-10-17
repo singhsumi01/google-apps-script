@@ -15,6 +15,7 @@ This repository serves as a unified development workspace for building, maintain
 
 | Project | Category | Description | Primary Services | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- |
+| [`AI Sheet Context Generator`](./projects/AI%20Sheet%20Context%20Generator/) | AI Context & Prompt Engineering | In-sheet scanner and prompt generator that introspects workbook sheets, formulas, validation rules, and linked Google Forms to create high-context, hallucination-resistant prompts for LLMs. | `SpreadsheetApp`, `FormApp`, `HtmlService` | GAS V8, TailwindCSS, Lucide |
 | [`SheetCloner`](./projects/SheetCloner/) | Sheets Automation | Lightweight utility that seamlessly imports and replaces a specific tab from an external Google Spreadsheet with zero duplication and real-time toast notifications. | `SpreadsheetApp`, `Utilities` | GAS V8 |
 
 *Additional projects will be documented here as they are added to the repository.*

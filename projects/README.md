@@ -8,6 +8,7 @@ This directory contains standalone and production Google Apps Script projects, t
 
 | Project | Category | Description | Primary Services | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- |
+| [`AI Sheet Context Generator`](./AI%20Sheet%20Context%20Generator/) | AI Context & Prompt Engineering | In-sheet scanner and prompt generator that introspects workbook sheets, formulas, validation rules, and linked Google Forms to create high-context, hallucination-resistant prompts for LLMs. | `SpreadsheetApp`, `FormApp`, `HtmlService` | GAS V8, TailwindCSS, Lucide |
 | [`SheetCloner`](./SheetCloner/) | Sheets Automation | Lightweight utility that seamlessly imports and replaces a specific tab from an external Google Spreadsheet with zero duplication and real-time toast notifications. | `SpreadsheetApp`, `Utilities` | GAS V8 |
 
 ---
