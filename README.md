@@ -3,7 +3,7 @@
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-V8%20Runtime-4285F4?logo=google&logoColor=white)](https://developers.google.com/apps-script)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Automations-34A853?logo=googlesheets&logoColor=white)](https://workspace.google.com/products/sheets/)
 [![Clasp](https://img.shields.io/badge/Built%20with-clasp-EA4335?logo=google&logoColor=white)](https://github.com/google/clasp)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A centralized monorepo for managing production-ready **Google Apps Script projects and Google Workspace automations**. Built with a focus on maintainability, modular architecture, version control, code reusability, and streamlined deployment across multiple projects.
 
