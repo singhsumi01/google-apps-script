@@ -1,0 +1,46 @@
+# macOS & OS artifacts
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
+
+# Clasp & Google Credentials
+.clasprc.json
+**/.clasprc.json
+credentials.json
+**/credentials.json
+token.json
+**/token.json
+client_secret*.json
+
+# Environment variables & secrets
+.env
+.env.*
+*.local
+
+# Node modules & logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build, test & cache outputs
+dist/
+build/
+.cache/
+graphify-out/
+playwright-report/
+test-results/
+
+# AI Agent & local governance files
+AGENTS.md
+CHANGELOG.md
+CLAUDE.md
+GEMINI.md
